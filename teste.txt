@@ -28,3 +28,12 @@ git log
 
 //Resetar para versão salva
 git reset --hard "ID do commit"
+
+//vincular com repositorio remoto
+git remoto + endereço (esse comando o proprio github fornece)
+
+//subir para o repositorio remoto
+git push -u origin main
+
+//verificar repositorio remoto
+git pull
