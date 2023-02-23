@@ -25,3 +25,6 @@ git config --global user.email "seuemail"
 
 //lista todos os commits
 git log
+
+//Resetar para versão salva
+git reset --hard "ID do commit"
