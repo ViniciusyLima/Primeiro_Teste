@@ -1,1 +1,13 @@
 primeira linha do arquivo teste
+
+//iniciar um controle de verão
+git init
+
+//verificar alterações/modificações
+git status
+
+//adicionar arquivo à próxima versão
+git add nomedoarquivo.extensãodoarquivo
+
+//gerar próxima versão
+git commit -m
